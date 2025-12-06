@@ -1,4 +1,4 @@
-# Hi, I'm Amber 👋 | AI & ML Consultant
+# Hi, I'm Amber 👋 | Applied AI & ML Specialist 
 
 Turning data into decisions across **banking**, **finance**, **construction**, and **digital transformation**.
 
