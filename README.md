@@ -1,51 +1,69 @@
-# Hi, I'm Amber 👋 | Applied AI & ML Specialist 
+# Hi, I'm Amber 👋  
 
-Turning data into decisions across **banking**, **finance**, **construction**, and **digital transformation**.
-
----
-
-### 💡 About Me
-
-* 🎓 **Education:** Master’s in Analytics (OMSA) from **Georgia Tech, USA**
-* 🎓 Master's in International Studies (IHEID, Switzerland) & Bachelor's in Economics and Finance (Franklin & Marshall, USA)
-* 💼 **Background:** Banking, strategy, and consulting.
-* 🤖 **Focus:** Applied **ML**, **NLP**, and **Optimization** for real business problems.
-* 🌍 **Location:** Based in Dubai, open to remote / global roles.
+**Applied AI & Data Science Consultant**  
+OMSA Candidate @ Georgia Tech · NLP · Machine Learning · Optimization · Analytics  
 
 ---
 
-### 🛠️ Tech & Tools
+### 👩‍💻 About Me  
+I help businesses turn complex data and processes into intelligent, actionable solutions using **Applied AI, ML, NLP, and optimization**.  
+My background spans **banking, strategy, construction, and digital transformation**, giving me a unique ability to translate real-world problems into practical, deployable AI systems.
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Languages & ML** | **Python** (Pandas, NumPy, Scikit-learn), **R** (tidyverse, caret, glmnet), Basics of PyTorch |
-| **Analytics & Modeling** | Regression, Classification, Clustering, Time Series, **Optimization (LP)**, Simulation, **NLP** (TF–IDF, Topic Models) |
-| **Data & Visualization** | **SQL**, Power BI / Basic Dashboards, Jupyter, RStudio |
-| **Other** | **Git & GitHub**, **AWS** (basic EC2 / REST APIs) |
+I focus on building models and tools that improve decision-making, reduce manual work, and uncover insights that drive value.
 
 ---
 
-### 🚧 What I’m Working On (Repositories Coming Soon)
+### 🔧 Skills & Tools
 
-* 📝 **NLP for long documents** — contract / proposal summarization
-* 💳 **Risk & forecasting models** — finance and operations
-* 📱 **Behavior & decision modeling** — screen time, user behavior
-* 🥗 **Optimization projects** — diet / meal planning under constraints
+**Machine Learning & AI**
+- Regression, Classification, Clustering  
+- NLP (TF–IDF, Topic Models, Transformers)  
+- Time Series Modeling  
+- Optimization (Linear, Integer, Simulation)  
+
+**Programming**
+- Python (Pandas, NumPy, Scikit-learn, NLTK, HuggingFace)  
+- R (tidyverse, caret, glmnet, randomForest)  
+- SQL  
+
+**Data Apps & Deployment**
+- Streamlit  
+- FastAPI (basic)  
+- AWS EC2 (basic deployment)  
+
+**Visualization**
+- Power BI  
+- Matplotlib / Seaborn  
+
+**Other**
+- Git & GitHub  
+- Problem framing, analytics strategy, business understanding  
 
 ---
 
-### 🚀 Selected Projects (Planned)
+### 🚀 What I'm Working On
 
-* **AI Document Summarizer:** NLP app to summarize long contracts & technical docs.
-* **Loan Default Prediction:** ML model with explainable outputs (e.g. SHAP).
-* **Screen Time Predictor for Kids:** Using ML to model digital habits.
-* **Meal Plan Optimizer for Allergies & PCOS:** LP-based weekly planner.
+- 📝 **AI Document Summarizer** — NLP app for long contracts & technical documents  
+- 💳 **Loan Default Prediction Model** — interpretable ML with SHAP  
+- 📱 **Screen-Time Behavior Predictor for Kids** — modeling human behavior with ML  
+- 🥗 **Meal Plan Optimizer** — constraints-based LP model for health + dietary needs  
+
+As I build each project, I’ll link the repositories below.
 
 ---
 
-### 📫 Get in Touch
+### 📌 Featured Projects (coming soon)
 
-* **LinkedIn:** https://www.linkedin.com/in/amber-khalid-08635112a/
-* **Email:** amberkhalid@gatech.edu
+- **AI Document Summarizer**  
+- **Loan Default Prediction**  
+- **AI Hype Tracker (NLP + Visualization)**  
+- **Meal Plan Optimizer for Dietary Constraints**  
 
-If you’re working on AI, ML, or analytics and think I can help — I’d love to connect.
+---
+
+### 📫 Contact
+
+- 📧 **amber.khalid@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amber-khalid-08635112a/)
+
+Always happy to connect about AI, analytics, strategy, and real-world ML applications.
